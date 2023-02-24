@@ -1,3 +1,5 @@
+Forked to fix [this issue](https://github.com/contentful/contentful_rails/issues/61) with code example from [Crowd-Cow](https://github.com/Crowd-Cow/contentful_rails/commit/acc1634f2914853d75014f38855a513b245881f2)
+
 # Contentful Rails
 
 A collection of useful things to help make it easier to integrate Contentful into your Rails app.
